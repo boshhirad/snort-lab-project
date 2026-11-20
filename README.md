@@ -162,25 +162,6 @@ Through this lab, I gained practical experience with:
 
 The main lesson I took away is that **generating an alert is only the beginning of an investigation**. A SOC Analyst must examine the available evidence and determine whether the activity is legitimate or suspicious.
 
-## Project Screenshots
-
-Add your actual lab screenshots here to demonstrate your work.
-
-Suggested screenshots:
-
-1. Snort installation and version verification.
-2. Snort configuration test.
-3. Packet capture and logging.
-4. Custom ICMP rule in `local.rules`.
-5. Console and CMG alert output.
-6. Fast alert log and alert statistics.
-7. PCAP analysis.
-
-Example Markdown:
-
-```markdown
-![Custom Snort Rule](screenshots/custom-rule.png)
-```
 
 ## Conclusion
 
