@@ -197,3 +197,6 @@ My next learning objectives are to develop more advanced detection rules, invest
 *Author: Aspiring SOC Analyst*
 
 *Project focus: Cybersecurity | Network Security | Snort | IDS | SOC Operations* 
+# Related Article
+
+Read my detailed lab walkthrough on Medium:https://medium.com/@boshhirad/snort-lab-project-hands-on-network-monitoring-intrusion-detection-and-custom-ids-rules-d301cc6178a5?postPublishedType=repub 
